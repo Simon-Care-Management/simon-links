@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "4X7WB4GRY7.health.simon.simon",
+                "paths": ["/invite", "/invite/*", "/invite?*"]
+            }
+        ]
+    }
+}
