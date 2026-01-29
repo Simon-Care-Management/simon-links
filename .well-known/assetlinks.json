@@ -1,0 +1,12 @@
+[
+    {
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "health.simon.simon",
+            "sha256_cert_fingerprints": [
+                "B9:2F:5E:00:A3:D5:0B:F3:A7:3D:6B:28:52:C0:2E:C6:5A:06:63:4C:C6:AC:BE:4A:CF:E1:34:B8:B8:8D:F5:2E"
+            ]
+        }
+    }
+]
